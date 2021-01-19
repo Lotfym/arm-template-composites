@@ -17,7 +17,7 @@
         "resourcesDefinitions": [
             {
                 "name": "storageAccounts",
-                "uri": "composites/storage/2019-12-01/storageAccount.json"
+                "uri": "components/storage/2019-06-01/storageAccounts.json"
             },
             {
                 "name": "networkInterfaces",
@@ -42,6 +42,10 @@
             {
                 "name": "subnets",
                 "uri": "components/network/2020-06-01/virtualNetworks/subnets.json"
+            },
+            {
+                "name": "dataFactories",
+                "uri": "composites/datafactory/2020-12-01/factory.json"
             },
             {
                 "name": "userAssignedIdentities",
