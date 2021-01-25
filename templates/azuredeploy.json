@@ -50,6 +50,10 @@
             {
                 "name": "userAssignedIdentities",
                 "uri": "components/managedidentity/2018-11-30/userAssignedIdentities.json"
+            },
+            {
+                "name": "searchServices",
+                "uri": "composites/search/2021-01-01/searchService.json"
             }
         ]
     },
