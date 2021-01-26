@@ -54,6 +54,10 @@
             {
                 "name": "searchServices",
                 "uri": "composites/search/2021-01-01/searchService.json"
+            },
+            {
+                "name": "insights",
+                "uri": "composites/insights/2021-01-01/component.json"
             }
         ]
     },
