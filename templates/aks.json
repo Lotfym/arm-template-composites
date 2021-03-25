@@ -44,7 +44,7 @@
                                 {
                                     "name": "linux",
                                     "osDiskSizeGB": 0,
-                                    "count": 2,
+                                    "count": 1,
                                     "vmSize": "Standard_B2ms",
                                     "osType": "Linux",
                                     "storageProfile": "ManagedDisks",
