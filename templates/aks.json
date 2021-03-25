@@ -75,13 +75,6 @@
                             "type": "SystemAssigned"
                         }
                     }
-                ],
-                "userAssignedIdentities": [
-                    {
-                        "name": "aks-dev-koko-01-dns",
-                        "location": "eastus",
-                        "resourceGroup": "aks-dev-koko-01-nodes"
-                    }
                 ]
             }
         }
